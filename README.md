@@ -1,4 +1,4 @@
-# lgstr-rutasit
+# rutasit
 Paquete de python3 para la obtención de ruta de viajes origen/destino entre zonas metropolitanas
 
 ## Instalación
